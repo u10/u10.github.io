@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>u10</title>
+    <link>https://u10.github.io/</link>
+    <description>Recent content on u10</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2016 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://u10.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于</title>
+      <link>https://u10.github.io/about/</link>
+      <pubDate>Thu, 25 Aug 2016 10:00:00 +0800</pubDate>
+      
+      <guid>https://u10.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;u10:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;u10&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hugo-helper</title>
+      <link>https://u10.github.io/projects/hugo-helper/</link>
+      <pubDate>Mon, 20 Jun 2016 17:20:02 +0800</pubDate>
+      
+      <guid>https://u10.github.io/projects/hugo-helper/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/u10/hugo-helper&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rpc4js</title>
+      <link>https://u10.github.io/projects/rpc4js/</link>
+      <pubDate>Mon, 20 Jun 2016 17:20:02 +0800</pubDate>
+      
+      <guid>https://u10.github.io/projects/rpc4js/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/u10/rpc4js&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
